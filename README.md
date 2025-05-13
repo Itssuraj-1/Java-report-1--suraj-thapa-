@@ -51,8 +51,35 @@ Each file is named according to the concept it demonstrates and begins with a co
 ---
 
 ## 🏃 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Itssuraj-1/Java-report-1--suraj-thapa-
+   cd java
+2. Compile and run a Java file:
+   javac FileName.java
+   java FileName
+3. 📚 Topics Covered
+Java syntax and data types
 
-### 1. Compile
-```bash
-javac FileName.java
+Conditional and loop statements
+
+Object-Oriented Programming (OOP)
+
+File handling
+
+Java Collections
+
+Exception handling
+
+Mini projects
+4. 🤝 Contributing
+This is a personal practice repository, but if you'd like to share feedback or suggestions, feel free to open an issue or pull request.
+
+📬 Contact
+🌐 GitHub: Itssuraj-1
+
+⚠️ Note: This code is for educational purposes and may not follow strict production-level standards.
+
+Thank you for visiting! 😊
+
 
