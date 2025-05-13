@@ -1,7 +1,3 @@
-# Java WAP Programs
-
-This repository contains a collection of **Java WAP (Write A Program)** tasks commonly assigned in beginner to intermediate Java courses. Each program demonstrates fundamental concepts of Java programming, from data types and control structures to object-oriented programming, exception handling, multi-threading, file handling, JDBC, and GUI using Swing.
-
 ## 📝 Description
 
 These programs are designed to help students understand the core principles of Java. The repository includes:
