@@ -1,4 +1,4 @@
-## 📝 Description
+## 📝 Description    
 
 These programs are designed to help students understand the core principles of Java. The repository includes:
 
